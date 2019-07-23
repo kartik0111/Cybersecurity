@@ -1,5 +1,6 @@
 # Road Map 
 
 ## For Begginers
-
-<img src=roadmap.jpg>
+<p align="center">
+<img src=roadmap.jpg >
+ </p> 
